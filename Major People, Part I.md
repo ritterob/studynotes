@@ -1,34 +1,9 @@
-<!DOCTYPE html>
-<html>
+---
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Major People, Part I</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#major-people-part-i">Major People, Part I</a>
-<ul>
-<li><a href="#thursday-may-28-noah">Thursday, May 28: Noah</a></li>
-<li><a href="#friday-may-29-noah-cont.">Friday, May 29: Noah (cont.)</a></li>
-<li><a href="#saturday-may-30-noah-cont.">Saturday, May 30: Noah (cont.)</a></li>
-<li><a href="#sunday-may-31-noah-cont.">Sunday, May 31: Noah (cont.)</a></li>
-<li><a href="#monday-june-1-noah-concl.">Monday, June 1: Noah (concl.)</a></li>
-</ul>
-</li>
-</ul>
+---
 
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="major-people-part-i">Major People, Part I</h1>
+<h1 id="major-people-part-i">Major People, Part I</h1>
 <h2 id="thursday-may-28-noah">Thursday, May 28: Noah</h2>
 <p><a href="https://my.bible.com/bible/59/GEN.6">Genesis 6</a></p>
 <p>We are told that the general state of the earth at this time is “wickedness,” and that man continually intended evil.</p>
@@ -93,8 +68,3 @@ for God made man in his own image."</p>
 <p><a href="https://my.bible.com/bible/59/GEN.10">Genesis 10</a></p>
 <p>As the story of Noah closes, Moses traces the origins of the Canaanite nations from Ham. We also get the genealogy of Shem, which will segue into the story of Abram. We can note that God had called Israel “according to his purpose” even before Abram was born.</p>
 
-    </div>
-  </div>
-</body>
-
-</html>
